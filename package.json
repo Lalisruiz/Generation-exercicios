@@ -8,11 +8,20 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "readline-sync": "^1.4.10"
-  },
+  "description": "Este repositório contém os exercícios propostos durante o módulo 01 de JavaScript.",
   "devDependencies": {
-    "@types/readline-sync": "^1.4.8"
-  }
+    "@types/node": "^24.0.10",
+    "@types/readline-sync": "^1.4.8",
+    "readline-sync": "^1.4.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lalisruiz/generation-exercicios.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lalisruiz/generation-exercicios/issues"
+  },
+  "homepage": "https://github.com/Lalisruiz/generation-exercicios#readme"
 }
